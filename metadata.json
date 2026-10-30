@@ -1,0 +1,9 @@
+{
+  "name": "Shalom Ministry",
+  "description": "Global Christian ministry outreach and community engagement app featuring Pray-As-You-Go audio reflections with text, live preaching, worship praise music, video sermons, fellowship chat, audio calls, voice messaging, file sharing, and spiritual statuses with a gold peace theme.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
